@@ -6,5 +6,6 @@ public class hey {
 	{
 		System.out.println ("Can you see that?");
 		System.out.println ("Yes, I can see that!");
+		System.out.println("Are we doing this right??");
 	}
 }
